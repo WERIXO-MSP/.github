@@ -56,7 +56,7 @@ Wir entwickeln nur Tools, die **wir selbst täglich nutzen**:
    ├─ Sensitive Data Handling
    └─ Status: 🟢 Stabil (v1.0)
 
-⚙️ werixo-automation (n8n)
+⚙️ werixo-automation (Python)
    ├─ Interne Workflow-Automatisierung
    ├─ Integration mit Customer Systems
    └─ Status: 🟢 Produktiv (8 Workflows)
