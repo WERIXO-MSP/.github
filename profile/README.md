@@ -2,97 +2,87 @@
 
 # 🛡️ WERIXO-MSP
 
-**Infrastructure & Security Automation Platform**
+**Tools para MSPs Modernos**
 
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/WERIXO-MSP)
-[![Repos](https://img.shields.io/badge/Projects-3-blue?style=flat-square)](https://github.com/WERIXO-MSP?tab=repositories)
-[![Language](https://img.shields.io/badge/Primary%20Language-Python-3776ab?style=flat-square)](https://python.org)
-[![Location](https://img.shields.io/badge/Location-🇩🇪%20Germany-black?style=flat-square)](https://de.wikipedia.org/wiki/Deutschland)
-
----
+[![NRW](https://img.shields.io/badge/Ubicación-🇩🇪%20NRW-black?style=flat-square)](https://de.wikipedia.org/wiki/Nordrhein-Westfalen)
+[![Focus](https://img.shields.io/badge/Focus-MSP%20Automation-blue?style=flat-square)](https://github.com/WERIXO-MSP)
+[![Built](https://img.shields.io/badge/Built%20by-MSPs-green?style=flat-square)](https://github.com/WERIXO-MSP)
 
 </div>
 
-## 📋 Über uns
+---
 
-**WERIXO-MSP** ist eine spezialisierte Plattform zur Automatisierung von IT-Infrastruktur und Sicherheitsprüfungen. Wir entwickeln Tools für:
+## 🤔 El Problema
 
-- 🔍 **IT-Audit & Compliance** — Automatisierte Infrastruktur-Scans
-- 🔐 **Security Automation** — Monitoring und Threat Detection
-- 📊 **Intelligence & Reporting** — Datengetriebene Analysen
+Trabajas como MSP. Cada día:
+
+- ⏰ Auditorías manuales que te roban horas
+- 📋 Reportes que tardan días en compilarse
+- 🔄 Tareas repetitivas sin fin
+- 👀 Sin visibilidad clara del estado real de cada cliente
+- 😤 Tu equipo se quema
+
+Mientras tanto: más clientes, más regulaciones, más presión.
 
 ---
 
-## 🚀 Aktive Projekte
+## 💡 Aquí es Donde Entra WERIXO
 
-| Projekt | Status | Sprache | Beschreibung |
-|---------|--------|---------|-------------|
-| **[werixo-intel](https://github.com/WERIXO-MSP/werixo-intel)** | ![Status](https://img.shields.io/badge/Stage-0-yellow?style=flat-square) | Python | Intelligence Platform für IT-Audits |
-| **[werixo-ops-vault](https://github.com/WERIXO-MSP/werixo-ops-vault)** | ![Status](https://img.shields.io/badge/Stable-v1.0-green?style=flat-square) | Python/Shell | Secrets & Credentials Management |
+Somos un MSP en Renania del Norte-Westfalia. Entendemos tu dolor porque **lo vivimos cada día**.
 
----
+Las herramientas que desarrollamos no son teoría — son soluciones que nosotros mismos necesitábamos.
 
-## 🎯 Roadmap
+### Lo Que Hacemos
 
-### Phase 1: Intelligence (Q1 2026)
-- ✅ Foundation & Architecture
-- 🔄 Scanner Hub Integration
-- ⏳ External Connectors (Level.io, M365)
-
-### Phase 2–4: Expansion (Q2–Q4 2026)
-- Advanced Analytics & Snapshots
-- REST API & Web Interface
-- Multi-Tenant Architecture
+- 🔍 **Auditoría Inteligente** — Scans automatizados, reportes al instante
+- 🤖 **Automatización Real** — Tareas repetitivas, resueltas sin intervención
+- 📊 **Visibilidad** — Sabe qué está pasando en cada infraestructura
+- ⚡ **Escalable** — Una herramienta para 10 o 100 clientes
+- 🔐 **Privacidad Primero** — Tus datos, tu control
 
 ---
 
-## 📖 Dokumentation
+## 🚀 Proyectos Activos
 
-- 📚 **[werixo-intel Docs](https://github.com/WERIXO-MSP/werixo-intel/tree/main/docs)** — Canon, Architecture, Roadmap
-- 🔧 **[Governance](https://github.com/WERIXO-MSP/werixo-intel/blob/main/docs/AGENT_RULES.md)** — Richtlinien & Prozesse
-- 📋 **[Backlog](https://github.com/WERIXO-MSP/werixo-intel/blob/main/docs/BACKLOG.md)** — Zukünftige Features
-
----
-
-## 👥 Team & Kontakt
-
-| Rolle | Kontakt |
-|-------|---------|
-| **MSP Lead** | 📧 [ops@werixo.msp] |
-| **Security** | 🔐 [security@werixo.msp] |
-| **Support** | 💬 Issues in den jeweiligen Repos |
+| Proyecto | Descripción | Estado |
+|----------|-------------|--------|
+| **[werixo-intel](https://github.com/WERIXO-MSP/werixo-intel)** | Plataforma de Auditoría IT + Compliance | 🟡 Stage 0 |
+| **[werixo-ops-vault](https://github.com/WERIXO-MSP/werixo-ops-vault)** | Gestión Segura de Credenciales | 🟢 Estable |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Filosofía
 
-```
-🐍 Python 3.11+  │  📦 SQLite  │  ⚡ FastAPI  │  📦 PyInstaller
-```
-
----
-
-## 📝 Richtlinien
-
-- 🔒 **Sicherheit First** — Alle Repos sind private
-- 👥 **Team-Only** — Zugang auf Anfrage
-- 📖 **Dokumentation** — Siehe README in jedem Repo
-- 🚀 **CI/CD** — GitHub Actions mit automatischem Testing
+- **Built by MSPs** — No creamos lo que pensamos que necesitas. Creamos lo que nosotros mismos necesitamos.
+- **Real Infrastructure** — Python, SQLite, FastAPI. Cosas que funcionan en producción.
+- **Security First** — Compliance, auditoría, trazabilidad — todo integrado desde el inicio.
+- **No Bloat** — Solo lo que importa. Sin features que nadie usa.
 
 ---
 
-## 🔗 Weitere Links
+## 🔗 Links & Docs
 
-- 🌐 [Official Website](https://werixo.de) *(coming soon)*
-- 📊 [Dashboard](https://dashboard.werixo.msp) *(internal only)*
-- 🐛 [Issues & Bugs](https://github.com/WERIXO-MSP/werixo-intel/issues)
+Para detalles técnicos, roadmap y arquitectura, consulta los repos individuales:
+
+- 📚 [werixo-intel Docs](https://github.com/WERIXO-MSP/werixo-intel) — Canon, Arquitectura, Roadmap
+- 🔧 [werixo-ops-vault](https://github.com/WERIXO-MSP/werixo-ops-vault) — Setup y Documentación
+
+---
+
+## 👥 Quiénes Somos
+
+Un equipo de ingenieros MSP en Alemania. No vendemos consultorías genéricas. Resolvemos problemas reales de infraestructura moderna.
+
+Si tienes feedback, quieres colaborar o simplemente conversar sobre MSP + automatización, abre un issue en cualquiera de nuestros repos.
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by WERIXO Engineering**
+**Hecho con ❤️ por MSPs, para MSPs**
 
-*Last updated: 2026-03-16 | Language: Deutsch*
+*Desde NRW, Alemania*
+
+*Última actualización: 2026-03-16*
 
 </div>
